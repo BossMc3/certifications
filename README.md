@@ -14,7 +14,7 @@ This repository contains my Oracle Academy course completion certificates in dat
 
 * **Provider:** Oracle Academy
 * **Completion date:** January 17, 2026
-* [View certificate PDF](.oracle-academy-database-design-and-programming-sql.pdf)
+* [View certificate PDF](./oracle-academy-database-design-and-programming-sql.pdf)
 
 ### 3. Database Programming with PL/SQL
 
